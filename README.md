@@ -13,3 +13,10 @@ IF YOU ARE A DEVELOPER OR PUBLISHER AND HAVE ANY QUESTIONS OR CONCERNS, PLEASE C
 ---
 
 AT THIS TIME, AUDIO FILES WILL NOT BE UPLOADED TO THIS REPOSITORY DUE TO POTENTIAL COPYRIGHT CONCERNS AND THEIR LARGE FILE SIZES.
+
+At this point, the versions of the game are not sorted. I plan to develop a storage method to reduce duplicate files by using the first version of the game as the base version, and uploading only new and unique files for the rest.
+
+---
+
+Missing Versions:
+1. 20250209.11723
